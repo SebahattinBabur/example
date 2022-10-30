@@ -1,3 +1,3 @@
 ## Deneme
 # alt bilgi 
-lorem ipsum
+lorem ipsum 
