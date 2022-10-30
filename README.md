@@ -19,6 +19,7 @@ _________________________________
 
 ***[ Kodluyoruz](https://www.kodluyoruz.org)***
 
-
-
+'''
+print("hello world")
+'''
 
