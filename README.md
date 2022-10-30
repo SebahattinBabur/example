@@ -18,8 +18,11 @@
 _________________________________
 
 ***[ Kodluyoruz](https://www.kodluyoruz.org)***
-
-'''
+# code block 1
+```python
 print("hello world")
-'''
-
+```
+# code block 2
+```javascript
+print("hello world")
+```
