@@ -26,3 +26,5 @@ print("hello world")
 ```javascript
 print("hello world")
 ```
+
+` system paint`
